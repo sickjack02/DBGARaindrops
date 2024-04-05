@@ -1,0 +1,4 @@
+repository "TanduoGiacomo_RaindropsDBGA@giacomotanduo2502@cloud"
+  path "/"
+    br "/main"
+    co "/main"
